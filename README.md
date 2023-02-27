@@ -65,7 +65,7 @@ McIntosh MA6100 Without Sleeve                                           |     M
 
 >### VII. Installation
 
->### VII. Performance Limits
+>### VIII. Performance Limits
 
 
 ### 📖: References : 
