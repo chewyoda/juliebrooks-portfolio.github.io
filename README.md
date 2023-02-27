@@ -26,14 +26,15 @@ McIntosh MA6100 Without Sleeve                                           |     M
 ### *Stereo Preamplifier-Power Amplifier - early 1970's model (circa 1972)*
 >## I. Contents
 
->### II. Current Customer Service Information
+>### II. Customer Service Information
 >#### *Company contact phone/email*
 
->### III. Set up – Connecting components
->#### A. Turntable (x2 connections)
->#### B. Tape recorder (x2 connections)
->#### C. AM/FM Stereo Receiver (x2 connections)
->#### D. Speakers 
+>### III. Set up and Stereo Use
+>#### A. How to Connect
+>##### i. Turntable (x2 connections)
+>##### ii. Tape recorder (x2 connections)
+>##### iii. Tuner (x2 connections)
+>##### iv. Speakers 
 
 >### IV. Front Panel Controls
 >#### A. Input Selector
@@ -52,7 +53,9 @@ McIntosh MA6100 Without Sleeve                                           |     M
 >#### F. Mode Selector
 >#### G. Push Buttons
 
->### V. Listening to Your Stereo
+>### V. Balancing Your Stereo
+
+>### VI. Listening to Your Stereo
 >#### How to use Front Panel Controls with Connected Components
 >#### A. Record
 >##### i. *Stereo*
@@ -60,11 +63,9 @@ McIntosh MA6100 Without Sleeve                                           |     M
 >#### B. Tape Recorder
 >#### C. Tape Deck
 
->### VI. Performance Limits/Charts
+>### VII. Installation
 
->### VII. Technical Description
-
->### VIII. Installation
+>### VII. Performance Limits
 
 
 ### 📖: References : 
