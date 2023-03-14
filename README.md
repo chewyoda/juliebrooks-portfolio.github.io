@@ -12,7 +12,7 @@ ________________________________________________________________________________
 </h1>
 
 <H2 align="center">
-<b>Project PTW310: Outline of Deliverable</b>
+<b>Project PTW310: Deliverable</b>
 </h2>
 
  
@@ -24,10 +24,12 @@ McIntosh MA6100 Without Sleeve                                           |     M
 
 # McIntosh MA 6100 User Manual 
 ### *Stereo Preamplifier-Power Amplifier - early 1970's model (circa 1972)*
->## I. Contents
+>## Contents
 
->### II. Customer Service Information
+>### I. Customer Service Information
 >#### *Company contact phone/email*
+
+>### II. About
 
 >### III. Set up and Stereo Use
 >#### A. How to Connect
@@ -67,6 +69,15 @@ McIntosh MA6100 Without Sleeve                                           |     M
 
 >### VIII. Performance Limits
 
+
+# *Final Project*
+>### Version 1: 
+>#### For viewing on devices with double sided diagram pages in vertical position for easier use in coordination of instructions when printed. 
+>[User Manual - McIntosh 6100 - Print Double Sided Diagrams.pdf](https://github.com/chewyoda/juliebrooks-portfolio.github.io/files/10963875/McIntosh.6100.-.Print.Double.Sided.pdf)
+
+>### Version 2: 
+>#### Double sided diagram pages are replaced with landscape versions (horizontal) for use on a device in coordination with instructions (or printed if needed).
+>[User Manual - McIntosh 6100 - Landscape Diagrams.pdf](https://github.com/chewyoda/juliebrooks-portfolio.github.io/files/10963933/McIntosh.6100.-.Landscape.Diagrams.pdf)
 
 ### 📖: References : 
 >[McIntoshMA6100OwnerManual.pdf](https://github.com/chewyoda/juliebrooks-portfolio.github.io/files/10710620/McIntoshMA6100OwnerManual.pdf)
